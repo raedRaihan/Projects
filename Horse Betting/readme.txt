@@ -1,0 +1,1 @@
+Run "HorseBetting.exe" to play the game

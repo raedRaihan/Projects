@@ -1,0 +1,118 @@
+
+
+Version:	3.50
+CmdLine:	E:\git\Horse Betting\horseBetting.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\git\Horse Betting\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = D:\server;D:\client;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Calibre2\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\QTSystem\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Downloads\bin;D:\bin;C:\Program Files\dotnet\;D:\Node\;E:\Python;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Git\cmd;C:\Users\Liberty\AppData\Local\Microsoft\WindowsApps;C:\Users\Liberty\.dotnet\tools;C:\Users\Liberty\AppData\Roaming\npm;D:\Microsoft VS Code\bin;D:\heroku\bin;E:\Python\Scripts;D:\CodeBlocks\MinGW\bin;D:\Java\bin
+JRE paths:	;D:\server;D:\client;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Calibre2\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\QTSystem\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Downloads\bin;D:\bin;C:\Program Files\dotnet\;D:\Node\;E:\Python;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Git\cmd;C:\Users\Liberty\AppData\Local\Microsoft\WindowsApps;C:\Users\Liberty\.dotnet\tools;C:\Users\Liberty\AppData\Roaming\npm;D:\Microsoft VS Code\bin;D:\heroku\bin;E:\Python\Scripts;D:\CodeBlocks\MinGW\bin;D:\Java\bin
+Check launcher:	D:\server\bin\javaw.exe (not found)
+Check launcher:	D:\client\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Calibre2\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	D:\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Windows Live\Shared\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	D:\Downloads\bin\javaw.exe (not found)
+Check launcher:	D:\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	D:\Node\bin\javaw.exe (not found)
+Check launcher:	E:\Python\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\DockerDesktop\version-bin\bin\javaw.exe (not found)
+Check launcher:	D:\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Liberty\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Liberty\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Liberty\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	D:\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	D:\heroku\bin\javaw.exe (not found)
+Check launcher:	E:\Python\Scripts\bin\javaw.exe (not found)
+Check launcher:	D:\CodeBlocks\MinGW\bin\javaw.exe (not found)
+Check launcher:	D:\Java\bin\javaw.exe (OK)
+Version string: 1.017.000_001 / 64-Bit (OK)
+Launcher:	D:\Java\bin\javaw.exe
+Launcher args:	-jar "E:\git\Horse Betting\horseBetting.exe"
+Args length:	44/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\git\Horse Betting\horseBetting.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\git\Horse Betting\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.000.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = D:\server;D:\client;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Calibre2\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\QTSystem\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Downloads\bin;D:\bin;C:\Program Files\dotnet\;D:\Node\;E:\Python;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Git\cmd;C:\Users\Liberty\AppData\Local\Microsoft\WindowsApps;C:\Users\Liberty\.dotnet\tools;C:\Users\Liberty\AppData\Roaming\npm;D:\Microsoft VS Code\bin;D:\heroku\bin;E:\Python\Scripts;D:\CodeBlocks\MinGW\bin;;D:\Java\bin
+JRE paths:	;D:\server;D:\client;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Calibre2\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\QTSystem\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Downloads\bin;D:\bin;C:\Program Files\dotnet\;D:\Node\;E:\Python;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Git\cmd;C:\Users\Liberty\AppData\Local\Microsoft\WindowsApps;C:\Users\Liberty\.dotnet\tools;C:\Users\Liberty\AppData\Roaming\npm;D:\Microsoft VS Code\bin;D:\heroku\bin;E:\Python\Scripts;D:\CodeBlocks\MinGW\bin;;D:\Java\bin
+Check launcher:	D:\server\bin\javaw.exe (not found)
+Check launcher:	D:\client\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Calibre2\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	D:\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Windows Live\Shared\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	D:\Downloads\bin\javaw.exe (not found)
+Check launcher:	D:\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	D:\Node\bin\javaw.exe (not found)
+Check launcher:	E:\Python\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\DockerDesktop\version-bin\bin\javaw.exe (not found)
+Check launcher:	D:\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Liberty\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Liberty\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Liberty\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	D:\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	D:\heroku\bin\javaw.exe (not found)
+Check launcher:	E:\Python\Scripts\bin\javaw.exe (not found)
+Check launcher:	D:\CodeBlocks\MinGW\bin\javaw.exe (not found)
+Check launcher:	D:\Java\bin\javaw.exe (OK)
+Version string: 1.017.000_001 / 64-Bit (OK)
+Launcher:	D:\Java\bin\javaw.exe
+Launcher args:	-jar "E:\git\Horse Betting\horseBetting.exe"
+Args length:	44/32768 chars
+Exit code:	0
